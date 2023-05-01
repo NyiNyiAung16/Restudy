@@ -4,8 +4,8 @@ h1 {
 }
 
 .image{
-    width: 150px;
-    height: 350px;
+    width: 80%;
+    height: 80%;
 }
 
 .main {
@@ -14,5 +14,7 @@ h1 {
 }
 
 .text {
-    color: aqua;
+    color:blueviolet;
+    font-size: 30px;
+    text-align: center;
 }
